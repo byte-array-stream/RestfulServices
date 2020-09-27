@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="24_Custom Content Handler MessageReader And MessageWriter Jersey">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="24_Custom_Content_Handler_Jersey"/>
+        <property name="java-output-path" value="/24_Custom Content Handler MessageReader And MessageWriter Jersey/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="20_Java Auto Conversion valueOf() Factory Method Jersey">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="20_Java_Auto_Conversion_valueOf_Factory_Method"/>
+        <property name="java-output-path" value="/20_Java Auto Conversion valueOf() Factory Method Jersey/build/classes"/>
+    </wb-module>
+</project-modules>
